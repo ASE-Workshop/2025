@@ -2,11 +2,11 @@
 title: Programmme
 nav: true
 ---
-
+<!--
 The ASE Workshop 2024 will take place at the Uni Center on the main campus of the Johannes Kepler University Linz: Altenberger Straße 69, 4040 Linz, Austria. Room: <b>Festsaal A</b>.
 Below, you will find an overview of the programme. 
 The proceedings are available [here](https://dl.gi.de/collections/53649beb-2b43-4ff0-b149-0471d78af8bb).
-
+-->
 <head>
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
 <style>
