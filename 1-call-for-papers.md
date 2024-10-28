@@ -23,7 +23,7 @@ This workshop will discuss challenges and approaches to solutions in automotive 
 The submission for the workshop (6-12 pages) is made via the conference management system EasyChair at the following [link](https://easychair.org/conferences/?conf=ase2025). 
 
 __Important dates__ (all AoE)\
-Submission deadline: October 28, 2024\
+Submission deadline: ~~October 28, 2024~~  __Deadline extension: November 4 2024 (AoE)__\
 Notifications: November 28, 2024\
 Final version: December 9, 2024
 
