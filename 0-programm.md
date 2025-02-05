@@ -3,11 +3,11 @@ title: Programmme
 nav: true
 ---
 The ASE Workshop 2025 will take place at the Campus South (Karlsruhe Institute of Technology, Karlsruhe, Germany), Straße am Forum 1, 76131 Karlsruhe, Germany. \
-Room: TBA \
+Room: TBA
 
-The programme will include a mix of regular, peer-reviewed papers and invited papers. The workshop will start with a keynote. \
+The programme will include a mix of regular, peer-reviewed papers and invited papers. The workshop will start with a keynote.
 
-The workshop way will end with the annual meeting of the GI specialist group "Automotive Software Engineering".
+The workshop way will end with the annual meeting of the GI specialist group "Automotive Software Engineering."
 All workshop participants are also invited to participate in the meeting.
 
 The detailed programme will be published soon.
