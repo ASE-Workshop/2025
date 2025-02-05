@@ -2,8 +2,6 @@
 title: Programmme
 nav: true
 ---
-To be announced...
-
 The ASE Workshop 2025 will take place at the Campus South (Karlsruhe Institute of Technology, Karlsruhe, Germany), Straße am Forum 1, 76131 Karlsruhe, Germany. \
 Room: TBA \
 
