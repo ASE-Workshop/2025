@@ -67,7 +67,7 @@ table.GeneratedTable thead {
     <tr>
       <td>15:00-15:30</td>
       <td>
-        <i>TBD (invited talk)</i><br/>
+        <i>Open-Source and Automotive: Quo vadis? (invited talk)</i><br/>
         <b>Pascal Hirmer</b><br/>
         <sup>Mercedes-Benz AG</sup>
         </td>
