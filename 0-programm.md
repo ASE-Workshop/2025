@@ -2,7 +2,7 @@
 title: Programmme
 nav: true
 ---
-The ASE Workshop 2025 will take place at the Campus South (Karlsruhe Institute of Technology, Karlsruhe, Germany), Straße am Forum 1, 76131 Karlsruhe, Germany. \
+The ASE Workshop 2025 will take place at the Campus South (Karlsruhe Institute of Technology, Karlsruhe, Germany), Engler-Bunte-Ring 1b, 76131 Karlsruhe, Germany. \
 Building 40.50 (Engler-Bunte-Institut) Room: 006
 
 The programme will include a mix of regular, peer-reviewed papers and invited papers. The workshop will start with a keynote.
@@ -116,80 +116,6 @@ table.GeneratedTable thead {
         <b>All</b>
         </td>
      </tr>
-    
-    <!--
-    <tr>
-      <td>14:00-14:15</td>
-      <td>
-        <b>Opening</b> <br/>
-      </td>
-    </tr>
-    <tr>
-      <td>14:15-15:00</td>
-      <td>
-        <b>Keynote</b><br/>
-        <i>AutoDevSafeOps: Integrated Development and Operation of Safe Automotive Systems</i><br/>
-        <b>Núria Mata</b><br/>
-        <sup>Fraunhofer Institute for Cognitive Systems IKS, Department Head Engineering for Software-defined Mobility</sup>
-      </td>
-    </tr>
-    <tr>
-      <td>15:00-15:30</td>
-      <td>
-        <i>Verbesserung der Testqualität mit dem Testing Quality Audit</i><br/>
-        <b>Ralf Reißing, Christoph Gomringer, and Frank Houdek</b><br/>
-        <sup>Hochschule Coburg, Mercedes-Benz AG</sup>
-        </td>
-     </tr>  
-    <tr>
-      <td>15:30-16:00</td>
-      <td><i>Coffe Break</i></td>
-     </tr>  
-    <tr>
-      <td>16:00-16:30</td>
-      <td>
-        <i>Mode Management in Contract-Based Design</i><br/>
-        <b>Janis Kröger and Martin Fränzle</b><br/>
-        <sup>Carl von Ossietzky Universität Oldenburg</sup>
-      </td>
-     </tr>
-    <tr>
-      <td>16:30-17:00</td>
-      <td>
-        <i>The Software-Defined Vehicle</i><br/>
-        <b>Daniel Grimm</b><br/>
-        <sub>Karlsruher Institut für Technologie, ITIV</sub>
-      </td>
-    </tr>
-     <tr>
-      <td>17:00-17:30</td>
-      <td>
-        <i>Testing of Autonomous Cars: Is it Feasible?</i><br/>
-        <b>Christian Facchi</b><br/>
-        <sub>Technische Hochschule Ingolstadt</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>17:30-18:00</td>
-      <td>
-        <i>Automotive Software Engineering: Quo Vadis?</i><br/>
-        <b>Ralf Reißing</b><br/>
-        <sup>Hochschule Coburg</sup>
-        </td>
-     </tr>  
-    <tr>
-      <td>18:00-18:30</td>
-      <td>
-        <i>Annual meeting of the GI specialist group "Automotive Software Engineering"</i>
-        <b>All Workshop Participans</b> <br/>
-        <sup>GI-Fachgruppe Automotive Software Engineering</sup>
-        </td>
-     </tr>  
-    <tr>
-      <td>18:30-20:00</td>
-      <td>
-        <i>Relaxed Get Together</i><br/>
-        <b>All</b>
-        </td>
-     </tr>
-  -->
+</tbody>
+</table>
+   
