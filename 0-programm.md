@@ -3,7 +3,7 @@ title: Programmme
 nav: true
 ---
 The ASE Workshop 2025 will take place at the Campus South (Karlsruhe Institute of Technology, Karlsruhe, Germany), Straße am Forum 1, 76131 Karlsruhe, Germany. \
-Room: TBA
+Building 40.50 (Engler-Bunte-Institut) Room: 006
 
 The programme will include a mix of regular, peer-reviewed papers and invited papers. The workshop will start with a keynote.
 
@@ -59,9 +59,9 @@ table.GeneratedTable thead {
       <td>14:15-15:00</td>
       <td>
         <b>Keynote</b><br/>
-        <i></i><br/>
-        <b></b><br/>
-        <sup></sup>
+        <i>Gen-AI assisted Software and Dependability Engineering for Software-Defined Vehicles</i><br/>
+        <b>Rasmus Adler</b><br/>
+        <sup>Fraunhofer IESE</sup>
       </td>
     </tr>
     <tr>
