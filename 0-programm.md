@@ -84,23 +84,23 @@ table.GeneratedTable thead {
         <b>Oliver Denninger, Joachim K. Axmann, Severin Kacianka and Bernd Westphal	</b><br/>
         <sup>NFF, fortiss, DLR, FZI</sup>
       </td>
-     </tr>
+   </tr>
+   <tr>
      <td>16:30-17:00</td>
       <td>
         <i>Automotive Security Engineering: A Demonstration of an Integrated Approach to EAST-ADL and Security Modeling	</i><br/>
         <b>Alexander Fischer and Ramin Tavakoli Kolagari	</b><br/>
         <sup>Technische Hochschule Nürnberg</sup>
       </td>
-     </tr>
-    <tr>
+   </tr>
+   <tr>
       <td>17:00-17:30</td>
       <td>
         <i>Towards Architectural Assurance of AI-based Driving Functions in Software-defined Vehicles (invited talk)</i><br/>
         <b>Max Scheerer</b><br/>
         <sub>FZI Forschungszentrum Informatik, Karlsruhe</sub>
       </td>
-    </tr>
-
+   </tr>
    <tr>
       <td>17:30-18:00</td>
       <td>
